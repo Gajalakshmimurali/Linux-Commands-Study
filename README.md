@@ -19,6 +19,7 @@ ls
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/b2773ece-d307-4271-ad1f-04a9adb0a7dc)
 
 ### 2. `pwd` Command
 
@@ -31,6 +32,8 @@ pwd
 
 **Output:**
 
+![Screenshot 2025-03-26 100504](https://github.com/user-attachments/assets/6d59f2d7-7bfb-439f-b08c-2902ff37cc7e)
+
 ### 3. `mkdir` Command
 
 The `mkdir` command is used to create a new directory.
@@ -41,6 +44,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-28 081619](https://github.com/user-attachments/assets/20c13677-a8c5-4195-9764-d990a102d05e)
 
 ### 4. `rmdir` Command
 
@@ -52,6 +56,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-28 081719](https://github.com/user-attachments/assets/79863183-ea35-4b25-b89b-78e318919498)
 
 ### 5. `cd` Command
 
@@ -63,6 +68,8 @@ cd <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/8f0fef78-04fd-441b-b937-814a99810fc4)
+
 
 ### 6. `cat` Command
 
@@ -74,6 +81,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/740d6978-ac51-4f37-a24a-49081727ed6e)
 
 ### 7. `cp` Command
 
@@ -141,6 +149,9 @@ head <file_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/17396d2b-ea92-4b67-a743-83efd1222a69)
+
+
 ### 13. `tail` Command
 
 The `tail` command displays the last 10 lines of a file.
@@ -151,6 +162,8 @@ tail <file_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-28 082048](https://github.com/user-attachments/assets/6db619ed-1837-4977-b339-fa147a53fd37)
+
 
 ### 14. `id` Command
 
@@ -162,6 +175,8 @@ id
 ```
 
 **Output:**
+
+![Screenshot 2025-03-28 082652](https://github.com/user-attachments/assets/4f07f400-0ead-4579-bf61-c1cd7033c06a)
 
 ### 15. `grep` Command
 
